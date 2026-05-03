@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=CoreMC" alt="CoreMC Logo" width="150"/>
-</p>
 
 <h1 align="center">⚔️ CoreMC Launcher ⚔️</h1>
 
