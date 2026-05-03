@@ -1,0 +1,2 @@
+# CoreMC
+Minecraft Launcher!
