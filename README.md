@@ -33,9 +33,9 @@
 
 ## 📥 Установка
 
-1.  Скачайте последнюю версию лаунчера со страницы [Releases](https://github.com/your-username/CoreMC/releases).
+1.  Скачайте последнюю версию лаунчера со страницы [Releases](https://github.com/chebukak/CoreMC/releases).
 2.  Распакуйте архив в удобное для вас место.
-3.  Запустите `CoreMC.exe`.
+3.  Запустите `CoreMC-setup.exe`.
 
 > [!WARNING]
 > **Внимание!**
@@ -45,7 +45,7 @@
 
 | Компонент | Минимальные | Рекомендуемые |
 | :--- | :--- | :--- |
-| **ОС** | Windows 10 / 11 | Windows 10 / 11 |
+| **ОС** | Windows 7 / 10 | Windows 10 / 11 |
 | **ОЗУ** | 4 GB | 8 GB |
 | **Видеокарта** | Intel HD Graphics 4000 | GeForce GTX 1050 Ti |
 | **Место на диске** | 1 GB | 2 GB (SSD) |
