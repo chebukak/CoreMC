@@ -55,7 +55,7 @@
 
 - 💬 **Чат сообщества**: [@core_mc_chat](https://t.me/core_mc_chat) — обсуждение лаунчера, помощь и общение.
 - 📢 **Новостной канал**: [@core_mc](https://t.me/core_mc) — анонсы обновлений и важная информация.
-- 🐞 **Баг-трекер**: [Issues](https://github.com/your-username/CoreMC/issues) — сообщения об ошибках и предложения.
+- 🐞 **Баг-трекер**: [Issues](https://github.com/chebukak/CoreMC/issues) — сообщения об ошибках и предложения.
 
 ## 📜 Лицензия
 
